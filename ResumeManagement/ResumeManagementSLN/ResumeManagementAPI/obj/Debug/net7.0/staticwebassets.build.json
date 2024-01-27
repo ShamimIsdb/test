@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "1mt2uVRS6XZWXyU6k6vWyfF1Aa2m+M+8YOV5OGcBczI=",
+  "Source": "ResumeManagementAPI",
+  "BasePath": "_content/ResumeManagementAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ResumeManagementAPI\\wwwroot",
+      "Source": "ResumeManagementAPI",
+      "ContentRoot": "E:\\Angular\\display\\test\\ResumeManagementSLN\\ResumeManagementAPI\\wwwroot\\",
+      "BasePath": "_content/ResumeManagementAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "E:\\Angular\\display\\test\\ResumeManagementSLN\\ResumeManagementAPI\\wwwroot\\Upload\\out. (1).jpg",
+      "SourceId": "ResumeManagementAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Angular\\display\\test\\ResumeManagementSLN\\ResumeManagementAPI\\wwwroot\\",
+      "BasePath": "_content/ResumeManagementAPI",
+      "RelativePath": "Upload/out. (1).jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Upload\\out. (1).jpg"
+    }
+  ]
+}
